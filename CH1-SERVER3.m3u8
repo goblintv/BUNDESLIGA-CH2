@@ -3,4 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://pull.qnhmqhl.cn/football/live38_hd.m3u8?auth_key=1590497411-0t4YRqhV0r-0-673e1882ed5aba4bd72a50911f6b22b1
+https://kastproxy-us.herokuapp.com/http://95.211.211.168/live/ptvsports2002/playlist.m3u8
